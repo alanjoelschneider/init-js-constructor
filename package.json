@@ -1,8 +1,14 @@
 {
     "name": "init-js-constructor",
-	"displayName": "Init JS Constructor",
+    "displayName": "Init JS Constructor",
 	"description": "Initialize properties from constructor args",
 	"version": "0.0.1",
+    "publisher": "aschneid",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alanjoelschneider/init-js-constructor.git"
+    },
 	"engines": {
 		"vscode": "^1.64.0"
 	},
